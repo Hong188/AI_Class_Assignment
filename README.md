@@ -17,6 +17,5 @@ Jupyter Notebook: Configured and operational
 # Environment Status
 
 PyTorch is successfully imported!
-Test tensor created: tensor([1, 2, 3, 4, 5], device='cuda:0')
 Tensor shape: torch.Size([5])
 Tensor device: cuda:0
