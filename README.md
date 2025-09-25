@@ -19,3 +19,6 @@ Jupyter Notebook: Configured and operational
 PyTorch is successfully imported!
 Tensor shape: torch.Size([5])
 Tensor device: cuda:0
+
+#Week 3 - PyTorch Audio I/O
+I leanred the task based on the official PyTorch Audio I/O Tutorial
