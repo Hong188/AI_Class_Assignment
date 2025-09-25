@@ -22,3 +22,14 @@ Tensor device: cuda:0
 
 # Week 3 - PyTorch Audio I/O
 I leanred the task based on the official PyTorch Audio I/O Tutorial
+
+# What I did
+Downloaded example audio files using torchadio.utils.download_asset
+Loaded audio with 
+Displayed waveform and spectogram using matplotlib
+
+# Results
+
+Waveform
+
+Spectogram
